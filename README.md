@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirAlexander)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirAlexander&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirAlexander&count_private=trues&how_icons=true)
