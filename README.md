@@ -2,7 +2,7 @@
 - 👀 I’m interested in build Full Stack Apps & contributing in software projects´ growth
 - 🌱 I’m currently learning Node.js & Java
 - 💞️ I’m looking to collaborate on a development team
-- 📫 How to reach me : [Link](https://twitter.com/Samirdiaz2022 "twitter"). twitter
+- 📫 How to reach me : [twitter](https://twitter.com/Samirdiaz2022 "twitter").
 
 <!---
 SamirAlexander/SamirAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
