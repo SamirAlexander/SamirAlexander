@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamirAlexander
 - 👀 I’m interested in build Full Stack Apps & contributing in software projects´ growth
-- 🌱 I’m currently learning Node.js & Java
+- 🌱 I’m currently Software Developer Node.js & JavaScript
 - 💞️ I’m looking to collaborate on a development team
 - 📫 How to reach me : [twitter](https://twitter.com/Samirdiaz2022 "twitter").
 
