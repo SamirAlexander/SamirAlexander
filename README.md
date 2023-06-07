@@ -24,7 +24,7 @@
 ✅ Prisma
 ✅ MongoDB 
 
-Others:
+🖌️ Others:
 ✅ Git
 ✅ Scrum
 ✅ Trello
