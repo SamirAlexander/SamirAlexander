@@ -6,6 +6,7 @@
                         [LinkedIn](https://www.linkedin.com/in/samiralexanderdiaz/).
                         
 💠My skills💼
+
 🖌️ Front-end:
 ✅ HTML
 ✅ Css
