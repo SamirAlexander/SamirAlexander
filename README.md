@@ -3,6 +3,7 @@
 - 🌱 I’m currently Software Developer Node.js & JavaScript
 - 💞️ I’m looking to collaborate on a development team
 - 📫 How to reach me : [twitter](https://twitter.com/Samirdiaz2022 "twitter").
+                        [LinkedIn](https://www.linkedin.com/in/samiralexanderdiaz/).
 
 <!---
 SamirAlexander/SamirAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
