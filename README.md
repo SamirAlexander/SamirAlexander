@@ -4,6 +4,31 @@
 - 💞️ I’m looking to collaborate on a development team
 - 📫 How to reach me : [twitter](https://twitter.com/Samirdiaz2022 "twitter").
                         [LinkedIn](https://www.linkedin.com/in/samiralexanderdiaz/).
+                        
+💠My skills💼
+🖌️ Front-end:
+✅ HTML
+✅ Css
+✅ JavaScript
+✅ React Js.
+✅ Redux 
+✅ Bootsrap
+✅ Tailwind 
+
+🖌️ Back-end:
+✅ Next 
+✅ Node
+✅ Express 
+✅ Sequelize 
+✅ PostgreSQL 
+✅ Prisma
+✅ MongoDB 
+
+Others:
+✅ Git
+✅ Scrum
+✅ Trello
+✅ Slack                        
 
 <!---
 SamirAlexander/SamirAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
